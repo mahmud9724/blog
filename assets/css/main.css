@@ -1,0 +1,35 @@
+	h1 {
+		font-family: Bernard MT Condensed;
+		color: #6f6f6f;
+		font-size: 60px;
+		text-align: center;
+	}
+	.blog {
+		width: 600px;
+		height: px;
+		background-color: #2f2f2f;
+		box-shadow: 6px 0px 43px #acacac;
+		margin: 0px auto;
+		padding: 10px 20px 10px 20px;
+		overflow: 
+
+	}
+	.blog h2 {
+		font-family: Bodoni MT Black;
+		font-size: 48px;
+		color: #f55;
+	}
+	.blog p {
+		text-align: justify;
+		font-size: 20px;
+		font-family: Monotype Corsiva;
+	    color: #e6e6e6;
+	}
+	.blog p span {
+		color: green;
+	}
+
+
+	.blog img {
+
+	}
